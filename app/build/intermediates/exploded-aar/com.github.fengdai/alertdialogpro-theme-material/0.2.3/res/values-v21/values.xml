@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Toxic/Documents/artifacts/AlertDialogPro/alertdialogpro-theme-material/src/main/res/values-v21/adp_mtrl_styles.xml -->
+    <eat-comment/>
+    <style name="Base.Widget.AlertDialogPro.Light.ListView" parent="android:Widget.Material.Light.ListView"/>
+    <style name="Base.Widget.AlertDialogPro.ListView" parent="android:Widget.Material.ListView"/>
+    <style name="Base.Widget.AlertDialogPro.Material.Button" parent="android:Widget.Material.Button.Borderless.Colored">
+        <item name="android:minHeight">@dimen/adp_mtrl_alert_dialog_button_bar_height</item>
+        <item name="android:minWidth">64dip</item>
+        <item name="android:maxLines">2</item>
+    </style>
+    <style name="Base.Widget.AlertDialogPro.Material.Light.Button" parent="android:Widget.Material.Light.Button.Borderless.Colored">
+        <item name="android:minHeight">@dimen/adp_mtrl_alert_dialog_button_bar_height</item>
+        <item name="android:minWidth">64dip</item>
+        <item name="android:maxLines">2</item>
+    </style>
+    <!-- From: file:/Users/Toxic/Documents/artifacts/AlertDialogPro/alertdialogpro-theme-material/src/main/res/values-v21/adp_mtrl_themes.xml -->
+    <eat-comment/>
+    <style name="Theme.AlertDialogPro.Material" parent="Base.Theme.AlertDialogPro.Material"/>
+    <style name="Theme.AlertDialogPro.Material.Light" parent="Base.Theme.AlertDialogPro.Material.Light"/>
+</resources>

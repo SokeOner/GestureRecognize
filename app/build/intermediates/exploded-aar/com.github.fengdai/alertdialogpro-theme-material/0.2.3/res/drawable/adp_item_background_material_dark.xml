@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/adp_mtrl_ripple_dark" android:state_pressed="true" />
+    <item android:drawable="@android:color/transparent" />
+
+</selector>
+<!-- From: file:/Users/Toxic/Documents/artifacts/AlertDialogPro/alertdialogpro-theme-material/src/main/res/drawable/adp_item_background_material_dark.xml -->

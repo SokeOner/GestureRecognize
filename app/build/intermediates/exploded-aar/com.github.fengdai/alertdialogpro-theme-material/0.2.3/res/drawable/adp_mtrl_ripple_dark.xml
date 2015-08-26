@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/adp_mtrl_ripple_dark" />
+</shape>
+<!-- From: file:/Users/Toxic/Documents/artifacts/AlertDialogPro/alertdialogpro-theme-material/src/main/res/drawable/adp_mtrl_ripple_dark.xml -->

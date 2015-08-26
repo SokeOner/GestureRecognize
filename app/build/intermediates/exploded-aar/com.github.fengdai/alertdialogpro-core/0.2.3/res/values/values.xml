@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Toxic/Documents/artifacts/AlertDialogPro/alertdialogpro-core/src/main/res/values/adp_core_attrs.xml -->
+    <eat-comment/>
+    <attr format="reference" name="adpButtonBarButtonStyle"/>
+    <attr format="reference" name="adpButtonBarNegativeButtonStyle"/>
+    <attr format="reference" name="adpButtonBarNeutralButtonStyle"/>
+    <attr format="reference" name="adpButtonBarPositiveButtonStyle"/>
+    <attr format="reference" name="adpButtonBarStyle"/>
+    <attr format="reference" name="adpListDivider"/>
+    <attr format="reference" name="adpListItemBackground"/>
+    <attr format="dimension" name="adpListItemMinHeight"/>
+    <attr format="reference" name="adpListItemTextAppearance"/>
+    <attr format="reference|color" name="adpListItemTextColor"/>
+    <attr format="reference" name="adpListMultiChoiceTextAppearance"/>
+    <attr format="reference" name="adpListSingleChoiceTextAppearance"/>
+    <attr format="reference" name="adpMessageTextAppearance"/>
+    <attr format="dimension" name="adpTitleMinHeight"/>
+    <attr format="reference" name="alertDialogProStyle"/>
+    <attr format="reference" name="alertDialogProTheme"/>
+    <declare-styleable name="AlertDialogPro"><attr format="reference" name="adpLayout"/><attr format="reference" name="adpListLayout"/><attr format="reference" name="adpListItemLayout"/><attr format="reference" name="adpMultiChoiceItemLayout"/><attr format="reference" name="adpSingleChoiceItemLayout"/><attr format="reference" name="adpProgressLayout"/><attr format="reference" name="adpHorizontalProgressLayout"/></declare-styleable>
+    <!-- From: file:/Users/Toxic/Documents/artifacts/AlertDialogPro/alertdialogpro-core/src/main/res/values/adp_core_ids.xml -->
+    <eat-comment/>
+    <item name="adp_alertTitle" type="id"/>
+    <item name="adp_button1" type="id"/>
+    <item name="adp_button2" type="id"/>
+    <item name="adp_button3" type="id"/>
+    <item name="adp_buttonPanel" type="id"/>
+    <item name="adp_contentPanel" type="id"/>
+    <item name="adp_custom" type="id"/>
+    <item name="adp_customPanel" type="id"/>
+    <item name="adp_icon" type="id"/>
+    <item name="adp_message" type="id"/>
+    <item name="adp_parentPanel" type="id"/>
+    <item name="adp_progress" type="id"/>
+    <item name="adp_progress_number" type="id"/>
+    <item name="adp_progress_percent" type="id"/>
+    <item name="adp_scrollView" type="id"/>
+    <item name="adp_select_dialog_listview" type="id"/>
+    <item name="adp_textSpacerNoButtons" type="id"/>
+    <item name="adp_titleDivider" type="id"/>
+    <item name="adp_titleDividerTop" type="id"/>
+    <item name="adp_title_template" type="id"/>
+    <item name="adp_topPanel" type="id"/>
+    <!-- From: file:/Users/Toxic/Documents/artifacts/AlertDialogPro/alertdialogpro-core/src/main/res/values/adp_core_styles.xml -->
+    <eat-comment/>
+    <style name="AlertDialogPro">
+        <!-- The core library has no default style -->
+        <item name="adpLayout">@null</item>
+        <item name="adpProgressLayout">@null</item>
+        <item name="adpHorizontalProgressLayout">@null</item>
+        <item name="adpListLayout">@null</item>
+        <item name="adpListItemLayout">@null</item>
+        <item name="adpMultiChoiceItemLayout">@null</item>
+        <item name="adpSingleChoiceItemLayout">@null</item>
+    </style>
+    <style name="Animation.AlertDialogPro" parent="android:Animation"/>
+    <!-- From: file:/Users/Toxic/Documents/artifacts/AlertDialogPro/alertdialogpro-core/src/main/res/values/adp_core_themes.xml -->
+    <eat-comment/>
+    <style name="Base.Theme.AlertDialogPro" parent="Theme.AppCompat.Dialog"/>
+    <style name="Base.Theme.AlertDialogPro.Light" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+
+        <!-- Window colors -->
+        <item name="android:colorForeground">@color/bright_foreground_material_light</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_dark</item>
+        <item name="android:colorBackground">@color/background_material_light</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_light</item>
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@color/background_material_light</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_light</item>
+        <item name="android:textColorPrimaryInverseDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_light</item>
+        <item name="android:textColorLink">@color/link_text_material_light</item>
+
+        <!-- Text styles -->
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+        <item name="android:textAppearanceInverse">@style/TextAppearance.AppCompat.Inverse</item>
+        <item name="android:textAppearanceLarge">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:textAppearanceLargeInverse">@style/TextAppearance.AppCompat.Large.Inverse</item>
+        <item name="android:textAppearanceMedium">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textAppearanceMediumInverse">@style/TextAppearance.AppCompat.Medium.Inverse</item>
+        <item name="android:textAppearanceSmall">@style/TextAppearance.AppCompat.Small</item>
+        <item name="android:textAppearanceSmallInverse">@style/TextAppearance.AppCompat.Small.Inverse</item>
+        <item name="android:spinnerStyle">@style/Widget.AppCompat.Spinner</item>
+        <item name="android:dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+        <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
+    </style>
+    <!-- From: file:/Users/Toxic/Documents/artifacts/AlertDialogPro/alertdialogpro-core/src/main/res/values/adp_core_styles.xml -->
+    <eat-comment/>
+    <style name="DialogWindowTitle.AlertDialogPro" parent="">
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textAppearance">@style/TextAppearance.AlertDialogPro.DialogWindowTitle
+        </item>
+    </style>
+    <style name="TextAppearance.AlertDialogPro" parent="android:TextAppearance"/>
+    <style name="TextAppearance.AlertDialogPro.DialogWindowTitle">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <!-- From: file:/Users/Toxic/Documents/artifacts/AlertDialogPro/alertdialogpro-core/src/main/res/values/adp_core_themes.xml -->
+    <eat-comment/>
+    <style name="Theme.AlertDialogPro" parent="Base.Theme.AlertDialogPro">
+        <item name="adpButtonBarPositiveButtonStyle">?attr/adpButtonBarButtonStyle</item>
+        <item name="adpButtonBarNegativeButtonStyle">?attr/adpButtonBarButtonStyle</item>
+        <item name="adpButtonBarNeutralButtonStyle">?attr/adpButtonBarButtonStyle</item>
+    </style>
+    <style name="Theme.AlertDialogPro.Light" parent="Base.Theme.AlertDialogPro.Light">
+        <item name="adpButtonBarPositiveButtonStyle">?attr/adpButtonBarButtonStyle</item>
+        <item name="adpButtonBarNegativeButtonStyle">?attr/adpButtonBarButtonStyle</item>
+        <item name="adpButtonBarNeutralButtonStyle">?attr/adpButtonBarButtonStyle</item>
+    </style>
+    <!-- From: file:/Users/Toxic/Documents/artifacts/AlertDialogPro/alertdialogpro-core/src/main/res/values/adp_core_styles.xml -->
+    <eat-comment/>
+    <style name="Widget.AlertDialogPro" parent="android:Widget"/>
+</resources>

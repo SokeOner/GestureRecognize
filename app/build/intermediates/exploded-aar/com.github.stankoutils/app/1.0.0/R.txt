@@ -1,0 +1,1 @@
+int drawable popup_outer 0x7f020000

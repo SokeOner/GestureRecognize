@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/SokeOner/Documents/Progects/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/SokeOner/Documents/Progects/android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-d28c957aa70c610d579cf80d1b082eb946adc52d.jar" />
+    </item>
+    <item
+        jar="/Users/SokeOner/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/SokeOner/Documents/Progects/android/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-0bb2ae7a209e4183fcc91b9198493af1540f7bc2.jar" />
+    </item>
+    <item
+        jar="/Users/SokeOner/Documents/Progects/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/SokeOner/Documents/Progects/android/app/build/intermediates/pre-dexed/debug/classes-ca2b743d01d4564f7696a5d21f41213bbb6aadb0.jar" />
+    </item>
+    <item
+        jar="/Users/SokeOner/Documents/Progects/android/app/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c83e45c56a824bc54f276b2fa071f1914cceba7">
+        <dex dex="/Users/SokeOner/Documents/Progects/android/app/build/intermediates/pre-dexed/debug/classes-e868cc09943d96ac29c14edf35bb380aac2994ab.jar" />
+    </item>
+    <item
+        jar="/Users/SokeOner/Documents/Progects/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/SokeOner/Documents/Progects/android/app/build/intermediates/pre-dexed/debug/classes-6de89f665390f1d073829a73bb5998d0dd860aa4.jar" />
+    </item>
+    <item
+        jar="/Users/SokeOner/Documents/Progects/android/app/build/intermediates/exploded-aar/com.github.stankoutils/app/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0cb5cfdd623b31e4ef6ad71e4050667d7f0e763f">
+        <dex dex="/Users/SokeOner/Documents/Progects/android/app/build/intermediates/pre-dexed/debug/classes-240e127d4a8beb64d2e14f8eb445d37b9754d86d.jar" />
+    </item>
+    <item
+        jar="/Users/SokeOner/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.8.1/1eb6690b0c629d7000c77a72df5e822fb974f521/jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1eb6690b0c629d7000c77a72df5e822fb974f521">
+        <dex dex="/Users/SokeOner/Documents/Progects/android/app/build/intermediates/pre-dexed/debug/jsoup-1.8.1-a548e13e39a7f20988ac34bc7fbc4662d41f7848.jar" />
+    </item>
+    <item
+        jar="/Users/SokeOner/Documents/Progects/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/SokeOner/Documents/Progects/android/app/build/intermediates/pre-dexed/debug/classes-63c84dbc4c22ec7793d667d2f0a1f90e213e2fff.jar" />
+    </item>
+
+</items>

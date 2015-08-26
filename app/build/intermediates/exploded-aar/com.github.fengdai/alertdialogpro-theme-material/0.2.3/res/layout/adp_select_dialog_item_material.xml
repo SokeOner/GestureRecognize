@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ellipsize="marquee"
+    android:gravity="center_vertical|start"
+    android:minHeight="?attr/adpListItemMinHeight"
+    android:paddingLeft="16dip"
+    android:paddingRight="16dip"
+    android:textAlignment="viewStart"
+    android:textAppearance="?attr/adpListItemTextAppearance"
+    android:textColor="?adpListItemTextColor" />
+<!-- From: file:/Users/Toxic/Documents/artifacts/AlertDialogPro/alertdialogpro-theme-material/src/main/res/layout/adp_select_dialog_item_material.xml -->
