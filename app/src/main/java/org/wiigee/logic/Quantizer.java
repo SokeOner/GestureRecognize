@@ -38,6 +38,8 @@ import java.util.Vector;
  * calculated dynamically before the training of this component.
  * 
  * @author Benjamin 'BePo' Poppinga
+ * @author Victor 'SokeOner' Pavluchinskyy
+
  */
 public class Quantizer implements Serializable {
 

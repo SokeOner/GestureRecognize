@@ -39,6 +39,8 @@ import org.wiigee.util.Log;
  * @author Maarten 'MrSnowflake' Krijn
  * @author zl25drexel
  * @author Benjamin 'BePo' Poppinga
+ * @author Victor 'SokeOner' Pavluchinskyy
+
  */
 public class AndroidWiigee extends Wiigee {
 

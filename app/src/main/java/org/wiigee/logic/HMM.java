@@ -37,7 +37,8 @@ import java.util.Vector;
  * purposes using some state-of-the-art technologies described in several papers.
  *
  * @author Benjamin 'BePo' Poppinga
- *
+ * @author Victor 'SokeOner' Pavluchinskyy
+
  */
 
 public class HMM implements Serializable{

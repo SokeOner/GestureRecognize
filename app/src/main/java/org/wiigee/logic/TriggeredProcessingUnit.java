@@ -40,7 +40,7 @@ import java.util.Vector;
  * This class analyzes the AccelerationEvents emitted from a Wiimote
  * and further creates and manages the different models for each type
  * of gesture.
- *
+ * @author Victor 'SokeOner' Pavluchinskyy
  * @author Benjamin 'BePo' Poppinga
  */
 public class TriggeredProcessingUnit extends ProcessingUnit {

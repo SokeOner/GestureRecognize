@@ -38,7 +38,7 @@ import android.hardware.SensorManager;
  * @author Maarten 'MrSnowflake' Krijn
  * @author zl25drexel
  * @author Benjamin 'BePo' Poppinga
- *
+ * @author Victor 'SokeOner' Pavluchinskyy
  */
 public class AndroidDevice extends Device implements SensorEventListener {
 	static final String TAG = "AndroidDevice";
